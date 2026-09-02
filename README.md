@@ -10,7 +10,7 @@ Práctica GitHub - Programación II - Semana 8
 | 4 | [NOMBRE DEV B] | Desarrollador - Usuario |
 | 5 | [NOMBRE DEV C] | Desarrollador - Producto |
 | 6 | [NOMBRE DEV D] | Desarrollador - Producto |
-| 7 | [NOMBRE DEV E] | Desarrollador - Venta |
+| 7 | Elvis Adiel Flores | Desarrollador - Venta |
 | 8 | [NOMBRE DEV F] | Desarrollador - Venta |
 | 9 | [NOMBRE DEV G] | Desarrollador - Cliente |
 | 10 | [NOMBRE DEV H] | Desarrollador - Cliente |
