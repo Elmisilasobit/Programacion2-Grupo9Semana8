@@ -26,3 +26,15 @@ Práctica GitHub - Programación II - Semana 8
 - Módulo Proveedor - `Proveedor.java`
 
 ## Estructura del Proyecto
+Programacion2-GrupoXSemana8/
+├── src/
+│ └── main/
+│ └── java/
+│ ├── Usuario.java
+│ ├── Producto.java
+│ ├── Venta.java
+│ ├── Cliente.java
+│ └── Proveedor.java
+├── .gitignore
+└── README.md
+
