@@ -5,7 +5,7 @@ Práctica GitHub - Programación II - Semana 8
 | # | Nombre | Rol |
 |---|--------|-----|
 | 1 | Elmer Antonio Morales Lopez | Git Master |
-| 2 | [NOMBRE QA] | QA |
+| 2 | Iris Yesenia Arteaga de Rodríguez | QA |
 | 3 | [NOMBRE DEV A] | Desarrollador - Usuario |
 | 4 | [NOMBRE DEV B] | Desarrollador - Usuario |
 | 5 | [NOMBRE DEV C] | Desarrollador - Producto |
