@@ -6,16 +6,16 @@ Práctica GitHub - Programación II - Semana 8
 |---|--------|-----|
 | 1 | Elmer Antonio Morales Lopez | Git Master |
 | 2 | Iris Yesenia Arteaga de Rodríguez | QA |
-| 3 | [NOMBRE DEV A] | Desarrollador - Usuario |
-| 4 | [NOMBRE DEV B] | Desarrollador - Usuario |
-| 5 | [NOMBRE DEV C] | Desarrollador - Producto |
-| 6 | [NOMBRE DEV D] | Desarrollador - Producto |
+| 3 | Nelson Alejandro Lopez Parada | Desarrollador - Usuario |
+| 4 | Vidal Caleb Rodríguez Paulino | Desarrollador - Usuario |
+| 5 | Jesse Maribel Mena Fuentes- | Desarrollador - Producto |
+| 6 | Samaria Isabel Gamez González| Desarrollador - Producto |
 | 7 | Elvis Adiel Flores | Desarrollador - Venta |
-| 8 | [NOMBRE DEV F] | Desarrollador - Venta |
-| 9 | [NOMBRE DEV G] | Desarrollador - Cliente |
-| 10 | [NOMBRE DEV H] | Desarrollador - Cliente |
-| 11 | [NOMBRE DEV I] | Desarrollador - Proveedor |
-| 12 | [NOMBRE DEV J] | Desarrollador - Proveedor |
+| 8 | José Efraín Silva Rodríguez | Desarrollador - Venta |
+| 9 | Emmanuel Tomas Contreras Valle | Desarrollador - Cliente |
+| 10 | Josué Isaac Elias Bonilla | Desarrollador - Cliente |
+| 11 | César Fernando Estrada Martínez | Desarrollador - Proveedor |
+| 12 | Julio Agustín Garay Miranda | Desarrollador - Proveedor |
 
 ## Módulos del Proyecto
 
@@ -26,7 +26,7 @@ Práctica GitHub - Programación II - Semana 8
 - Módulo Proveedor - `Proveedor.java`
 
 ## Estructura del Proyecto
-Programacion2-GrupoXSemana8/
+Programacion2-Grupo9Semana8/
 ├── src/
 │ └── main/
 │ └── java/
