@@ -17,5 +17,5 @@ public class Proveedor {
                 + " - Empresa proveedor: " + empresa
                 + " - Modificado por Desarrollador J");
     }
-    // se ha agregado la solucion 
+    // se ha agregado la solucion .
 }
