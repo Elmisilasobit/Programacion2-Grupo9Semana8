@@ -17,6 +17,7 @@ Práctica GitHub - Programación II - Semana 8
 | 11 | César Fernando Estrada Martínez | Desarrollador - Proveedor |
 | 12 | Julio Agustín Garay Miranda | Desarrollador - Proveedor |
 
+
 ## Módulos del Proyecto
 
 - Módulo Usuario - `Usuario.java`
@@ -26,6 +27,8 @@ Práctica GitHub - Programación II - Semana 8
 - Módulo Proveedor - `Proveedor.java`
 
 ## Estructura del Proyecto
+
+
 Programacion2-Grupo9Semana8/
 ├── src/
 │ └── main/
@@ -37,4 +40,5 @@ Programacion2-Grupo9Semana8/
 │ └── Proveedor.java
 ├── .gitignore
 └── README.md
+
 
