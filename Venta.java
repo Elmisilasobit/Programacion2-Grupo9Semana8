@@ -1,15 +1,15 @@
 public class Venta {
     private int idVenta;
-    private String cliente;
+    private String nombreCliente;
     private double total;
 
-    public Venta(int idVenta, String cliente, double total) {
+    public Venta(int idVenta, String nombreCliente, double total) {
         this.idVenta = idVenta;
-        this.cliente = cliente;
+        this.nombreCliente = nombreCliente;
         this.total = total;
     }
 
     public void mostrarDetalle() {
-        System.out.println("Venta #" + idVenta + " - Cliente: " + cliente + " - Total: $" + total);
+        System.out.println("Venta #" + idVenta + " - Nombre Cliente: " + nombreCliente + " - Total: $" + total);
     }
 }
