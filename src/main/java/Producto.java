@@ -9,6 +9,6 @@ public class Producto {
         this.id = id;
         this.nombre = nombre;
         this.precio = precio;
-        this.stock = stock;
+        private int stock = 0;
     }
 }
