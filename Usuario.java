@@ -10,8 +10,10 @@ public class Usuario {
     }
 
     public void mostrarDetalle() {
-        System.out.println("Usuario #" + idUsuario
-                + " - Nombre: " + nombre
-                + " - Correo: " + correo);
+        System.out.println("=== Detalle del Usuario ===");
+        System.out.println("ID de usuario: " + idUsuario);
+        System.out.println("Nombre completo: " + nombre.toUpperCase());
+        System.out.println("Correo electrónico: " + correo);
+        System.out.println("============================");
     }
 }

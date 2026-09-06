@@ -1,3 +1,5 @@
+// Modificado por Desarrollador J  Solucion a el problema 
+
 public class Proveedor {
     private int idProveedor;
     private String nombre;
@@ -12,6 +14,12 @@ public class Proveedor {
     public void mostrarDetalle() {
         System.out.println("Proveedor #" + idProveedor
                 + " - Nombre: " + nombre
-                + " - Empresa: " + empresa);
+                + " - Empresa proveedor: " + empresa
+                + " - Modificado por Desarrollador J");
     }
+
+    // se ha agregado la solucion 
+
+    // se ha agregado la solucion .
+
 }
