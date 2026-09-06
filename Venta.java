@@ -10,6 +10,10 @@ public class Venta {
     }
 
     public void mostrarDetalle() {
-        System.out.println("Venta #" + idVenta + " - Nombre Cliente: " + nombreCliente + " - Total: $" + total);
+        System.out.println("Venta #" + idVenta + " - Cliente: " + nombreCliente + " - Total: $" + total);
+    }
+
+    public double getTotal() {
+        return total;
     }
 }
