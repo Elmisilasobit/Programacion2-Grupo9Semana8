@@ -9,8 +9,9 @@ public class Producto {
         this.id = id;
         this.nombre = nombre;
         this.precio = precio;
-        this.stock = stock;
+       
     }
+feature/producto-D
 
     // D: Getters, Setters y toString
     public int getId() { return id; }
@@ -26,4 +27,5 @@ public class Producto {
     public String toString() {
         return "ID: " + id + " | " + nombre + " | $" + precio + " | Stock: " + stock;
     }
+main
 }
